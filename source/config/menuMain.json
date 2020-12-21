@@ -7,14 +7,14 @@
   },  
   { 
     "id": 1,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "Dignidad_como_fundamento_de_la_cultura_humana",
     "title": "1. Dignidad como fundamento de la cultura humana",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/1-tema.html",    
     "submenu": [
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "Dignidad_como_fundamento_de_la_cultura_humana",
         "title": "1.1 Concepto",
         "anchor": "11"
@@ -35,47 +35,47 @@
   },  
   { 
     "id": 1,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "Habilidades_para_la_vida_y_la_convivencia",
     "title": "2. Habilidades para la vida y la convivencia",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/2-tema.html",    
     "submenu": [
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "Habilidades_para_la_vida_y_la_convivencia",
         "title": "2.1. Empatía",
-        "anchor": "11"
+        "anchor": "21"
       },   
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "Habilidades_para_la_vida_y_la_convivencia",
         "title": "2.2 Inteligencia emocional",
-        "anchor": "12"
+        "anchor": "22"
       },
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "Habilidades_para_la_vida_y_la_convivencia",
         "title": "2.3. Comunicación Asertiva",
-        "anchor": "13"
+        "anchor": "23"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "Habilidades_para_la_vida_y_la_convivencia",
         "title": "2.4. Resolución de conflictos",
-        "anchor": "14"
+        "anchor": "24"
       },
       {
         "icon": "fa fa-file-text",
         "slug": "Habilidades_para_la_vida_y_la_convivencia",
         "title": "2.5. Reconocimiento de aspectos personales a transformar",
-        "anchor": "15"
+        "anchor": "25"
       }      
     ]   
   },
   { 
     "id": 1,
-    "icon": "fa fa-file-text",
+    "icon": "fa fa-play-circle",
     "slug": "Proyecto_de_vida_de_acuerdo_con_los_criterios_de_dignidad_respeto",
     "title": "3. Proyecto de vida de acuerdo con los criterios de dignidad, respeto",
     "breadcrumb": ["Inicio","Introducción"],
@@ -88,7 +88,7 @@
         "anchor": "31"
       },   
       {
-        "icon": "fa fa-file-text",
+        "icon": "fa fa-play-circle",
         "slug": "Proyecto_de_vida_de_acuerdo_con_los_criterios_de_dignidad_respeto",
         "title": "3.2 Metas propuestas que estén en relación con principios y valores",
         "anchor": "32"
